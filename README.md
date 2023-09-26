@@ -1,4 +1,4 @@
-# Data-Analisys-Bogota
+# Data-Analysis-Bogota
 ## Dataset:
 Real estate information in Colombia
 
